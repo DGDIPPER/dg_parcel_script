@@ -1,0 +1,9 @@
+['parcel'] = {
+    label = 'Parcel',
+    weight = 500,
+    stack = true,
+    consume = 1,
+    client = {
+        event = 'parcel:useParcel'
+    }
+},
